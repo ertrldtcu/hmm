@@ -1,0 +1,9 @@
+{
+  "name": "hmm",
+  "short_name": "hmm",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141116",
+  "theme_color": "#141116"
+}
