@@ -13,7 +13,7 @@
         localStorage.setItem('pair', JSON.stringify(p));
       } catch { }
     }
-    history.replaceState(null, '', location.pathname + '#/');
+    // Bağlantı adreste kalır: iOS'ta ana ekran uygulamasının depolaması Safari'ninkinden ayrıdır, anahtarı adresle taşır.
   }
   if (!pair) {
     try {
