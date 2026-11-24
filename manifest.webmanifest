@@ -3,6 +3,6 @@
   "short_name": "hmm",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#141116",
-  "theme_color": "#141116"
+  "background_color": "#fae2e9",
+  "theme_color": "#fae2e9"
 }
